@@ -7,8 +7,7 @@
   },
   "dependencies": {
     "@slidev/cli": "^0.22.5",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-default": "0.19.1"
   },
   "name": "wasm-intro"
 }
