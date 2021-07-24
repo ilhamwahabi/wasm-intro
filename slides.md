@@ -1,8 +1,9 @@
 ---
 theme: default
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://images.unsplash.com/photo-1492573637402-25691cd9eac2
 class: "text-center"
 highlighter: shiki
+titleTemplate: "%s - Ilham Wahabi"
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -10,12 +11,12 @@ info: |
   Learn more at [Sli.dev](https://sli.dev)
 ---
 
-# Welcome to Slidev
+# Going Forward with WebAssembly
 
-Presentation slides for developers
+Because humans are never satisfied
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+  <a href="https://github.com/iwgx/wasm-intro" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -23,12 +24,12 @@ Presentation slides for developers
 
 ---
 
-# Who is the speaker???
+# Hi! I'm Ilham Wahabi
 
 <br>
 <br>
 
-- 😀 **Name:** - Ilham Wahabi
+- 😀 **Also Known As:** - iwgx
 - 📝 **Role:** - Frontend Developer
 - 👨‍🎓 **Education:** - Informatics ITB
 - 🤝 **Ex:** - Dekoruma, Stoqo, etc
