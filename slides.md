@@ -40,3 +40,16 @@ Because humans are never satisfied
 <br>
 
 Follow me on [Twitter](https://twitter.com/ilhamwahabigx) and [Github](https://github.com/iwgx) 👋
+
+---
+layout: section
+---
+
+# What is WebAssembly?
+
+---
+layout: quote
+---
+
+# A new type of code that can be run in modern web browsers and provides new features and major gains in performance.
+MDN Web Docs
