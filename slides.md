@@ -96,3 +96,44 @@ layout: fact
 
 # 2018
 First draft specifications were delivered
+
+---
+layout: section
+---
+
+# Benefits of WebAssembly
+
+---
+layout: statement
+---
+
+# Near-Native Speed
+Some test indicates 20x faster than Javascript
+
+---
+layout: statement
+---
+
+# Compile from Other Language
+Enable non-Javascript developer to create web
+
+---
+layout: statement
+---
+
+# Browser Support
+No plugin needed, like Flash or Silverlight
+
+---
+layout: statement
+---
+
+# Secure by Design
+Using Javascript Sandbox
+
+---
+layout: statement
+---
+
+# JS Can Run Wasm Modules
+Computationally expensive feature use Wasm and the rest can use JS
