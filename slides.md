@@ -4,11 +4,7 @@ background: https://images.unsplash.com/photo-1492573637402-25691cd9eac2
 class: "text-center"
 highlighter: shiki
 titleTemplate: "%s - Ilham Wahabi"
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+colorSchema: 'dark'
 ---
 
 # Going Forward with WebAssembly
@@ -53,6 +49,19 @@ layout: quote
 
 # A new type of code that can be run in modern web browsers and provides new features and major gains in performance.
 MDN Web Docs
+
+---
+layout: image-right
+image: '/images/wasm-runtime.png'
+---
+
+# Relation with Javascript
+
+- Run is the same runtime as Javascript
+- Javascript needs to be interpreted, where WebAssembly can directly executed
+- WebAssembly is not new Javascript or replace it. It complements (notice the logo)
+- WebAssembly will be planned to also can be used in another runtime
+- We still need Javascript to import WebAssembly code
 
 ---
 layout: section
