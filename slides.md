@@ -53,3 +53,37 @@ layout: quote
 
 # A new type of code that can be run in modern web browsers and provides new features and major gains in performance.
 MDN Web Docs
+
+---
+layout: section
+---
+
+# History of WebAssembly
+
+---
+layout: fact
+---
+
+# 2015
+WebAssembly Community Group is started
+
+---
+layout: fact
+---
+
+# 2016
+MVP was announced for major browsers
+
+---
+layout: fact
+---
+
+# 2017
+W3C WebAssembly Working Group was created
+
+---
+layout: fact
+---
+
+# 2018
+First draft specifications were delivered
