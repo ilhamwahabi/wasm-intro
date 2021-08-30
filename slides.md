@@ -9,7 +9,7 @@ colorSchema: 'dark'
 
 # Going Forward with WebAssembly
 
-Because humans are never satisfied
+Because developers are never satisfied
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/iwgx/wasm-intro" target="_blank" alt="GitHub"
@@ -49,6 +49,33 @@ layout: quote
 
 # A new type of code that can be run in modern web browsers and provides new features and major gains in performance.
 MDN Web Docs
+
+---
+layout: quote
+---
+
+# Wasm is designed as a portable target for compilation of high-level languages like C/C++/Rust, enabling deployment on the web for client and server applications
+Webassembly.org
+
+---
+layout: image-right
+image: '/images/wasm-look.jpg'
+---
+
+# Can Be Compiled From
+
+- C
+- C++
+- C#
+- Rust
+- AssemblyScript (a TypeScript-like syntax)
+- F#
+- Go
+- Kotlin
+- Swift
+- D
+- Pascal
+- Zig
 
 ---
 layout: image-right
