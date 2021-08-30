@@ -137,3 +137,15 @@ layout: statement
 
 # JS Can Run Wasm Modules
 Computationally expensive feature use Wasm and the rest can use JS
+
+---
+
+# Use Cases
+
+- Video / Audio Editing
+- Video / Audio Streaming
+- Video / Audio Calling
+- Gaming
+- Virtual Reality
+- Augmented Reality
+- Artificial Intelligence
