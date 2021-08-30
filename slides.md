@@ -57,11 +57,22 @@ image: '/images/wasm-runtime.png'
 
 # Relation with Javascript
 
-- Run is the same runtime as Javascript
+- Use same runtime as Javascript
 - Javascript needs to be interpreted, where WebAssembly can directly executed
 - WebAssembly is not new Javascript or replace it. It complements (notice the logo)
-- WebAssembly will be planned to also can be used in another runtime
-- We still need Javascript to import WebAssembly code
+- WebAssembly will be planned to can be used in another runtime
+- WebAssembly can call Javascript code and vice versa
+
+---
+layout: section
+---
+
+# Browser Compatibility
+by 30 August 2021
+
+---
+
+<img src="/images/wasm-compatibility.png">
 
 ---
 layout: section
@@ -135,9 +146,12 @@ Using Javascript Sandbox
 layout: statement
 ---
 
-# JS Can Run Wasm Modules
+# Partial Usage
 Computationally expensive feature use Wasm and the rest can use JS
 
+---
+layout: image-right
+image: '/images/funkykarts.png'
 ---
 
 # Use Cases
