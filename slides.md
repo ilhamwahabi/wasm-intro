@@ -152,7 +152,7 @@ Some test indicates 20x faster than Javascript
 layout: statement
 ---
 
-# Compile from Other 🤯
+# Compile from Other Lang. 🤯
 Enable non-Javascript developer to create web
 
 ---
@@ -190,3 +190,11 @@ image: '/images/funkykarts.png'
 - Virtual Reality
 - Augmented Reality
 - Artificial Intelligence
+- etc
+
+---
+layout: statement
+---
+
+# "Always bet on JS & Wasm"
+Guillermo Rauch (CEO Vercel, Creator of Next.js)
