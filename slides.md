@@ -1,6 +1,6 @@
 ---
 theme: default
-background: https://images.unsplash.com/photo-1492573637402-25691cd9eac2
+background: ./bg.png
 class: "text-center"
 highlighter: shiki
 titleTemplate: "%s - Ilham Wahabi"
@@ -9,7 +9,7 @@ colorSchema: 'dark'
 
 # Going Forward with WebAssembly
 
-Because developers are never satisfied
+Because humans are never satisfied
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/iwgx/wasm-intro" target="_blank" alt="GitHub"
