@@ -1,6 +1,6 @@
 ---
 theme: default
-background: ./bg.png
+background: /images/bg.png
 class: "text-center"
 highlighter: shiki
 titleTemplate: "%s - Ilham Wahabi"
