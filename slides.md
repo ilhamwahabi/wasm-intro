@@ -30,7 +30,7 @@ Because developers are never satisfied
 - 👨‍🎓 **Education:** - Informatics ITB
 - 🤝 **Ex:** - Dekoruma, Stoqo, etc
 - 👨‍💻 **Favorite Framework:** - Vue & Flutter
-- 🧑‍ **Currently:** - Web Engineer at Sembly, CTO Bersihin.co
+- 🧑‍ **Currently:** - Software Engineer at Sembly
 
 <br>
 <br>
@@ -145,36 +145,36 @@ layout: section
 layout: statement
 ---
 
-# Near-Native Speed
+# Near-Native Speed 🚀
 Some test indicates 20x faster than Javascript
 
 ---
 layout: statement
 ---
 
-# Compile from Other Language
+# Compile from Other 🤯
 Enable non-Javascript developer to create web
 
 ---
 layout: statement
 ---
 
-# Browser Support
+# Browser Support 💪
 No plugin needed, like Flash or Silverlight
 
 ---
 layout: statement
 ---
 
-# Secure by Design
+# Secure by Design 🔒
 Using Javascript Sandbox
 
 ---
 layout: statement
 ---
 
-# Partial Usage
-Computationally expensive feature use Wasm and the rest can use JS
+# Partial Usage ✌️
+Computationally expensive feature can use Wasm while the rest use JS
 
 ---
 layout: image-right
