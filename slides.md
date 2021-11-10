@@ -58,50 +58,6 @@ layout: quote
 Webassembly.org
 
 ---
-layout: image-right
-image: '/images/wasm-look.jpg'
----
-
-# Can Be Compiled From
-
-- C
-- C++
-- C#
-- Rust
-- AssemblyScript (a TypeScript-like syntax)
-- F#
-- Go
-- Kotlin
-- Swift
-- D
-- Pascal
-- Zig
-
----
-layout: image-right
-image: '/images/wasm-runtime.png'
----
-
-# Relation with Javascript
-
-- Use same runtime as Javascript
-- Javascript needs to be interpreted, where WebAssembly can directly executed
-- WebAssembly is not new Javascript or replace it. It complements (notice the logo)
-- WebAssembly will be planned to can be used in another runtime
-- WebAssembly can call Javascript code and vice versa
-
----
-layout: section
----
-
-# Browser Compatibility
-by 30 August 2021
-
----
-
-<img src="/images/wasm-compatibility.png">
-
----
 layout: section
 ---
 
@@ -134,6 +90,50 @@ layout: fact
 
 # 2018
 First draft specifications were delivered
+
+---
+layout: section
+---
+
+# Browser Compatibility
+by 30 August 2021
+
+---
+
+<img src="/images/wasm-compatibility.png">
+
+---
+layout: image-right
+image: '/images/wasm-look.jpg'
+---
+
+# Can Be Compiled From
+
+- C
+- C++
+- C#
+- Rust
+- AssemblyScript (a TypeScript-like syntax)
+- F#
+- Go
+- Kotlin
+- Swift
+- D
+- Pascal
+- Zig
+
+---
+layout: image-right
+image: '/images/wasm-runtime.png'
+---
+
+# Relation with Javascript
+
+- Use same runtime as Javascript
+- Javascript needs to be interpreted, where WebAssembly can directly executed
+- WebAssembly is not new Javascript or replace it. It complements (notice the logo)
+- WebAssembly will be planned to can be used in another runtime
+- WebAssembly can call Javascript code and vice versa
 
 ---
 layout: section
