@@ -20,17 +20,14 @@ Because humans are never satisfied
 
 ---
 
-# Hi! I'm Ilham Wahabi
+# Hi, There!
 
 <br>
 <br>
 
-- 😀 **Also Known As:** - iwgx
-- 📝 **Role:** - Frontend Developer
-- 👨‍🎓 **Education:** - Informatics ITB
-- 🤝 **Ex:** - Dekoruma, Stoqo, etc
-- 👨‍💻 **Favorite Framework:** - Vue & Flutter
-- 🧑‍ **Currently:** - Software Engineer at Sembly
+- 😀 My name is: **Ilham Wahabi**
+- 📝 And I'm a: **Frontend Developer**
+- 🧑‍ Currently: **Software Engineer at Sembly**
 
 <br>
 <br>
