@@ -124,13 +124,13 @@ layout: image-right
 image: '/images/wasm-runtime.png'
 ---
 
-# Relation with Javascript
+# Relation with JavaScript
 
-- Use same runtime as Javascript
-- Javascript needs to be interpreted, where WebAssembly can directly executed
-- WebAssembly is not new Javascript or replace it. It complements (notice the logo)
+- Use same runtime as JavaScript
+- JavaScript needs to be interpreted, where WebAssembly can directly executed
+- WebAssembly is not new JavaScript or replace it. It complements (notice the logo)
 - WebAssembly will be planned to can be used in another runtime
-- WebAssembly can call Javascript code and vice versa
+- WebAssembly can call JavaScript code and vice versa
 
 ---
 layout: section
@@ -143,14 +143,14 @@ layout: statement
 ---
 
 # Near-Native Speed 🚀
-Some test indicates 20x faster than Javascript
+Some test indicates 20x faster than JavaScript
 
 ---
 layout: statement
 ---
 
 # Compile from Other Lang. 🤯
-Enable non-Javascript developer to create web
+Enable non-JavaScript developer to create web
 
 ---
 layout: statement
@@ -164,7 +164,7 @@ layout: statement
 ---
 
 # Secure by Design 🔒
-Using Javascript Sandbox
+Using JavaScript Sandbox
 
 ---
 layout: statement

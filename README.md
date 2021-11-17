@@ -1,6 +1,6 @@
 # Going Forward with WebAssembly
 
-Made for biweekly Sembly short tech sharing on November 9th 2021 by Ilham Wahabi. Discuss about introduction to WebAssembly: definition, relationships with Javascript, benefits, and use case.
+Made for biweekly Sembly short tech sharing on November 9th 2021 by Ilham Wahabi. Discuss about introduction to WebAssembly: definition, relationships with JavaScript, benefits, and use case.
 
 Tech stack:
 - Slidev (Vite, Vue + Markdown)
