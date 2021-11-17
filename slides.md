@@ -11,13 +11,6 @@ colorSchema: 'dark'
 
 Because humans are never satisfied
 
-<div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/iwgx/wasm-intro" target="_blank" alt="GitHub"
-    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon-logo-github />
-  </a>
-</div>
-
 ---
 
 # Hi, there!
@@ -26,7 +19,8 @@ Because humans are never satisfied
 <br>
 
 - 😀 My name is: **Ilham Wahabi**
-- 📝 And I'm a: **Frontend Developer**
+- 📝 I'm a: **Frontend Developer**
+- 📝 My hobby are: **Hacking and Writing at [iwgx.io](https://iwgx.io)**
 - 🧑‍ Currently: **Software Engineer at Sembly**
 
 <br>
@@ -89,11 +83,17 @@ layout: fact
 First draft specifications were delivered
 
 ---
+layout: statement
+---
+
+# This is a ~~toy~~ serious project
+
+---
 layout: section
 ---
 
-# Browser Compatibility
-by 30 August 2021
+# Browser Compatibility?
+by August 30 2021
 
 ---
 
@@ -104,7 +104,7 @@ layout: image-right
 image: '/images/wasm-look.jpg'
 ---
 
-# Can Be Compiled From
+# Can Be Compiled From:
 
 - C
 - C++
@@ -124,12 +124,13 @@ layout: image-right
 image: '/images/wasm-runtime.png'
 ---
 
-# Relation with JavaScript
+# The Relation with JavaScript
+
+<br>
 
 - Use same runtime as JavaScript
 - JavaScript needs to be interpreted, where WebAssembly can directly executed
 - WebAssembly is not new JavaScript or replace it. It complements (notice the logo)
-- WebAssembly will be planned to can be used in another runtime
 - WebAssembly can call JavaScript code and vice versa
 
 ---
