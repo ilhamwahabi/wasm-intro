@@ -20,7 +20,7 @@ Because humans are never satisfied
 
 ---
 
-# Hi, There!
+# Hi, there!
 
 <br>
 <br>
