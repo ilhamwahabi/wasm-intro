@@ -5,6 +5,7 @@ class: "text-center"
 highlighter: shiki
 titleTemplate: "%s - Ilham Wahabi"
 colorSchema: 'dark'
+favicon: /images/favicon.png
 ---
 
 # Going Forward with WebAssembly
@@ -18,9 +19,9 @@ Because humans are never satisfied
 <br>
 <br>
 
-- 😀 My name is: **Ilham Wahabi**
+- 😀 My name: **Ilham Wahabi**
 - 📝 I'm a: **Frontend Developer**
-- 📝 My hobby are: **Hacking and Writing at [iwgx.io](https://iwgx.io)**
+- ✍️ My hobby: **Hacking and Writing at [iwgx.io](https://iwgx.io)**
 - 🧑‍ Currently: **Software Engineer at Sembly**
 
 <br>
